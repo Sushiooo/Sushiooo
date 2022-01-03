@@ -1,8 +1,6 @@
 <h1 align="center">Welcome on my Github, I'm Lohan</h1>
 <h3 align="center">A passionate beginner developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushiooo&label=Profile%20views&color=cc0000&style=flat" alt="sushiooo" /> </p>
-
 - 🌱 I’m currently learning **C, JS, Py**
 
 - 📫 How to reach me **the.lolo.2003@gmail.com**
