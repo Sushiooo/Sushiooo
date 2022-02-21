@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, JS, Py**
 
-- 📫 How to reach me **the.lolo.2003@gmail.com**
+- 📫 How to reach me **the.lolo.2003@gmail.com | lohan.garcia@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
